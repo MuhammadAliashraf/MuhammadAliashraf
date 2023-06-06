@@ -45,8 +45,8 @@
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAliashraf&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="MuhammadAliashraf"  />
 
  
-
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliashraf&show_icons=true&locale=en" alt="MuhammadAliashraf" /></p>
+<!-- 
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliashraf&show_icons=true&locale=en" alt="MuhammadAliashraf" /></p> -->
  
  
 <p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAliashraf&show_icons=true&locale=en&layout=compact" alt="MuhammadAliashraf" /></p>
