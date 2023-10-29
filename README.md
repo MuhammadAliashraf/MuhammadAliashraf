@@ -1,5 +1,5 @@
 <h3 align="center">
- 👋 Hi, I’m MUHAMMAD ALI !
+ 👋 Hi, I’m MUHAMMAD ALI!
 </h3>
 
 <p align="center">
@@ -51,8 +51,8 @@
  
 <p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAliashraf&show_icons=true&locale=en&layout=compact" alt="MuhammadAliashraf" /></p>
 
-- 👀 interested in MernStack Development - Web 3.0 - Cyber Security - Blockchain ...
-- Currently working as React Native Developer
+- 👀 interested in MernStack Development - Web 3.0 - Cyber Security -...
+- Currently working as Mern Stack Web Developer!
 - 📫 How to reach me ... 
 muhammadaliofficial001@gmail.com
 +923062767542 (WhatsApp)
