@@ -51,6 +51,11 @@
  
 <p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAliashraf&show_icons=true&locale=en&layout=compact" alt="MuhammadAliashraf" /></p>
 
+## :trophy: GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MuhammadAliashraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=MuhammadAliashraf&icon=0&color=0)](https://visitcount.itsvg.in)
+
 - 👀 interested in MernStack Development - Web 3.0 - Cyber Security -...
 - Currently working as Mern Stack Web Developer!
 - 📫 How to reach me ... 
