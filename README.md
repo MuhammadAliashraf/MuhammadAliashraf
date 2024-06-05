@@ -58,8 +58,9 @@
 
 - 👀 interested in MernStack Development - Web 3.0 - Cyber Security -...
 - Currently working as Mern Stack Web Developer!
-- 📫 How to reach me ... 
-muhammadaliofficial001@gmail.com
+- 📫 How to reach me ...
+
+devmuhammadali@outlook.com OR muhammadaliofficial001@gmail.com
 +923062767542 (WhatsApp)
  
  
