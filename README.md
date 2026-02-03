@@ -68,7 +68,7 @@
 - Currently working as Mern Stack Web Developer!
 - 📫 How to reach me ...
 
-devmuhammadali@outlook.com OR muhammadaliofficial001@gmail.com
+devmuhammadali@outlook.com OR alijutt030627@gmail.com
 +923062767542 (WhatsApp)
  
  
