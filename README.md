@@ -1,13 +1,13 @@
 <img alt="Banner Image" src="https://media.licdn.com/dms/image/v2/D4D16AQGEobFYyvrEZQ/profile-displaybackgroundimage-shrink_350_1400/B4DZzLbrwlI4AY-/0/1772939570498?e=1775088000&v=beta&t=9JLiV2-Q0B1x8gd8HjWS9YIQnP0v2QItTEJ_1H-EYS8"  />
 
 
-<h3 align="center">
+<!-- <h3 align="center">
  👋 Hi, I’m MUHAMMAD ALI!
-</h3>
+</h3> -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Next%20JS%20Developer;React%20JS%20Developer;Front%20End%20Developer;MERN%20Stack%20Developer;React%20Native%20Developer;Node%20Js%20Developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/MuhammadAliashraf">
