@@ -1,3 +1,6 @@
+<img alt="Banner Image" src="https://media.licdn.com/dms/image/v2/D4D16AQGEobFYyvrEZQ/profile-displaybackgroundimage-shrink_350_1400/B4DZzLbrwlI4AY-/0/1772939570498?e=1775088000&v=beta&t=9JLiV2-Q0B1x8gd8HjWS9YIQnP0v2QItTEJ_1H-EYS8"  />
+
+
 <h3 align="center">
  👋 Hi, I’m MUHAMMAD ALI!
 </h3>
