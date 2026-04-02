@@ -1,5 +1,10 @@
 <img alt="Banner Image" src="https://res.cloudinary.com/ddnvx3zrg/image/upload/fl_preserve_transparency/v1773450734/Gemini_Generated_Image_drfsd8drfsd8drfs_rz9y5p.jpg?_s=public-apps"  />
 
+<p align="center">
+  <img src="https://res.cloudinary.com/ddnvx3zrg/image/upload/v1775148147/qrcode_328118385_82039e777df7f3e71f3f622630e881b5_ywghko.png" width="10%" />
+  <img src="https://res.cloudinary.com/ddnvx3zrg/image/upload/v1775148147/qrcode_328119270_c6343e6fff7437353c307c7541a7fe76_eumooa.png" width="10%" />
+  <img src="https://res.cloudinary.com/ddnvx3zrg/image/upload/v1775148147/qrcode_328119564_0f419835cf9b14e516a9c17d12ba958b_zkzqmo.png" width="10%" />
+</p>
 
 <!-- <h3 align="center">
  👋 Hi, I’m MUHAMMAD ALI!
@@ -67,12 +72,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=MuhammadAliashraf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👀 interested in MernStack Development - Web 3.0 - Cyber Security -...
-- Currently working as Mern Stack Web Developer!
-- 📫 How to reach me ...
-
-devmuhammadali@outlook.com OR alijutt030627@gmail.com
-+923062767542 (WhatsApp)
- 
- 
  <!--  1%2B%20years%20of%20coding%20experience; -->
