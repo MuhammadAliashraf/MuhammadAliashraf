@@ -1,3 +1,4 @@
+
 <img alt="Banner Image" src="https://res.cloudinary.com/ddnvx3zrg/image/upload/fl_preserve_transparency/v1773450734/Gemini_Generated_Image_drfsd8drfsd8drfs_rz9y5p.jpg?_s=public-apps"  />
 
 <p align="center">
@@ -16,9 +17,16 @@
 
 <p align="center">
   <a href="https://github.com/MuhammadAliashraf">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MuhammadAliashraf"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MuhammadAliashraf"/>
+  </a>
+
   <a href="https://github.com/MuhammadAliashraf">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MuhammadAliashraf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MuhammadAliashraf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/MuhammadAliashraf">
+    <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=MuhammadAliashraf&style=for-the-badge&color=0e75b6&label=Views"/>
+  </a>
 </p>
 
 <p align="center">
@@ -58,9 +66,7 @@
 </p>
 
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAliashraf&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="MuhammadAliashraf"  />
-
- 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MuhammadAliashraf&layout=compact&theme=tokyonight" />
 <!-- 
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliashraf&show_icons=true&locale=en" alt="MuhammadAliashraf" /></p> -->
  
