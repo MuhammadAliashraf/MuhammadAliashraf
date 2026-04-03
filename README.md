@@ -1,4 +1,3 @@
-
 <img alt="Banner Image" src="https://res.cloudinary.com/ddnvx3zrg/image/upload/fl_preserve_transparency/v1773450734/Gemini_Generated_Image_drfsd8drfsd8drfs_rz9y5p.jpg?_s=public-apps"  />
 
 <p align="center">
@@ -65,17 +64,14 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadAliashraf&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MuhammadAliashraf&layout=compact&theme=tokyonight" /> -->
-<!-- 
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliashraf&show_icons=true&locale=en" alt="MuhammadAliashraf" /></p> -->
- 
- 
-<p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAliashraf&show_icons=true&locale=en&layout=compact" alt="MuhammadAliashraf" /></p>
+## 🏆 GitHub Trophies
 
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadAliashraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=MuhammadAliashraf&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=MuhammadAliashraf&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
  <!--  1%2B%20years%20of%20coding%20experience; -->
