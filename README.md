@@ -66,7 +66,7 @@
 </p>
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MuhammadAliashraf&layout=compact&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MuhammadAliashraf&layout=compact&theme=tokyonight" /> -->
 <!-- 
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliashraf&show_icons=true&locale=en" alt="MuhammadAliashraf" /></p> -->
  
